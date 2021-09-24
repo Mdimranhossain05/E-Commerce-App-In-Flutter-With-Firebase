@@ -1,16 +1,38 @@
-# e_commerce_project
+After the splach screen if user not signed in registration screen will appear:
 
-A new Flutter project.
+<img src="images/sign_up.png" width="300" height="580">
 
-## Getting Started
+and he can go to sign in page if user have already an account:
 
-This project is a starting point for a Flutter application.
+<img src="images/sign_in.png" width="300" height="580">
 
-A few resources to get you started if this is your first Flutter project:
+After registration user data page will appear to take data about user:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="images/user_form.png" width="300" height="580">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Then Homescreen will appear with carousel slider and products and if user login with login page then homepage will appear too:
+
+<img src="images/homepage.png" width="300" height="580">
+
+If user want to search specific product the he can search for that:
+
+<img src="images/search_screen.png" width="300" height="580">
+
+Then if user click any product from homepage then he will get products details page from where he can add product to cart and can add to favourite and by again click on favourite icon he can remove product from favourite list list:
+
+<img src="images/product_page.png" width="300" height="580">
+
+Then User can see favourite product list from favourite section:
+
+<img src="images/favourite_page.png" width="300" height="580">
+
+User can see carted product list from cart section:
+
+<img src="images/cart_page.png" width="300" height="580">
+
+Then user can go profile section and can update data and can logout from his account:
+
+<img src="images/profile_view.png" width="300" height="580">
+
+
+
