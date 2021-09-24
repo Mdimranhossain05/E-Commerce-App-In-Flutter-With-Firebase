@@ -22,11 +22,11 @@ Then if user click any product from homepage then he will get products details p
 
 <img src="images/product_page.png" width="300" height="580">
 
-Then User can see favourite product list from favourite section:
+Then User can see favourite product list and can remove product from list by tap on the trailing icon from favourite section:
 
 <img src="images/favourite_page.png" width="300" height="580">
 
-User can see carted product list from cart section:
+User can see carted product list and can remove product from list by tap on the trailing icon from cart section:
 
 <img src="images/cart_page.png" width="300" height="580">
 
